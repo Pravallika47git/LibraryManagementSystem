@@ -24,6 +24,3 @@ This mini project implements a basic library management system with the followin
 - Java 11 or higher
 - VS Code or any Java IDE
 - Git (optional, for version control)
-
-   ```bash
-   javac *.java
